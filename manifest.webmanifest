@@ -1,0 +1,11 @@
+{
+  "name": "Cuenta atrás San Lorenzo",
+  "short_name": "CuentaAtrás",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": []
+}
+
